@@ -1,0 +1,11 @@
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\x86\Debug\addonprueba.exe.config
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\x86\Debug\addonprueba.exe
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\x86\Debug\addonprueba.pdb
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\x86\Debug\addonprueba.xml
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\x86\Debug\SAPBusinessOneSDK.dll
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\x86\Debug\addonprueba.vbprojResolveAssemblyReference.cache
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\x86\Debug\addonprueba.Resources.resources
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\x86\Debug\addonprueba.vbproj.GenerateResource.Cache
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\x86\Debug\addonprueba.exe
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\x86\Debug\addonprueba.xml
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\x86\Debug\addonprueba.pdb

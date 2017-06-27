@@ -1,0 +1,35 @@
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\x64\Debug\addonprueba.exe.config
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\x64\Debug\addonprueba.exe
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\x64\Debug\addonprueba.pdb
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\x64\Debug\addonprueba.xml
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\x64\Debug\addonprueba.Resources.resources
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\x64\Debug\addonprueba.vbproj.GenerateResource.Cache
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\x64\Debug\addonprueba.exe
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\x64\Debug\addonprueba.xml
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\x64\Debug\addonprueba.pdb
+C:\Users\cristhiam\Documents\addonprueba\addonprueba\bin\x64\Debug\addonprueba.exe.config
+C:\Users\cristhiam\Documents\addonprueba\addonprueba\obj\x64\Debug\addonprueba.exe
+C:\Users\cristhiam\Documents\addonprueba\addonprueba\obj\x64\Debug\addonprueba.xml
+C:\Users\cristhiam\Documents\addonprueba\addonprueba\obj\x64\Debug\addonprueba.pdb
+C:\Users\cristhiam\Documents\addonprueba\addonprueba\bin\x64\Debug\addonprueba.exe
+C:\Users\cristhiam\Documents\addonprueba\addonprueba\bin\x64\Debug\addonprueba.pdb
+C:\Users\cristhiam\Documents\addonprueba\addonprueba\bin\x64\Debug\addonprueba.xml
+C:\Users\cristhiam\Documents\addonprueba\addonprueba\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\Users\cristhiam\Documents\addonprueba\addonprueba\obj\x64\Debug\addonprueba.Resources.resources
+C:\Users\cristhiam\Documents\addonprueba\addonprueba\obj\x64\Debug\addonprueba.vbproj.GenerateResource.Cache
+C:\Users\cristhiam\Documents\addonprueba\addonprueba\obj\x64\Debug\addonprueba.vbprojResolveAssemblyReference.cache
+E:\Addons\SQL 9.1 PL05 Cambio de Valor\AddonTubac varios Rangos\addonprueba\addonprueba\bin\x64\Debug\addonprueba.exe.config
+E:\Addons\SQL 9.1 PL05 Cambio de Valor\AddonTubac varios Rangos\addonprueba\addonprueba\obj\x64\Debug\addonprueba.exe
+E:\Addons\SQL 9.1 PL05 Cambio de Valor\AddonTubac varios Rangos\addonprueba\addonprueba\obj\x64\Debug\addonprueba.xml
+E:\Addons\SQL 9.1 PL05 Cambio de Valor\AddonTubac varios Rangos\addonprueba\addonprueba\obj\x64\Debug\addonprueba.pdb
+C:\Users\cristhiam\Desktop\AddonTubac varios Rangos\addonprueba\addonprueba\bin\x64\Debug\addonprueba.exe.config
+C:\Users\cristhiam\Desktop\AddonTubac varios Rangos\addonprueba\addonprueba\bin\x64\Debug\addonprueba.exe
+C:\Users\cristhiam\Desktop\AddonTubac varios Rangos\addonprueba\addonprueba\bin\x64\Debug\addonprueba.pdb
+C:\Users\cristhiam\Desktop\AddonTubac varios Rangos\addonprueba\addonprueba\bin\x64\Debug\addonprueba.xml
+C:\Users\cristhiam\Desktop\AddonTubac varios Rangos\addonprueba\addonprueba\obj\x64\Debug\addonprueba.vbprojResolveAssemblyReference.cache
+C:\Users\cristhiam\Desktop\AddonTubac varios Rangos\addonprueba\addonprueba\obj\x64\Debug\addonprueba.Resources.resources
+C:\Users\cristhiam\Desktop\AddonTubac varios Rangos\addonprueba\addonprueba\obj\x64\Debug\addonprueba.vbproj.GenerateResource.Cache
+C:\Users\cristhiam\Desktop\AddonTubac varios Rangos\addonprueba\addonprueba\obj\x64\Debug\addonprueba.exe
+C:\Users\cristhiam\Desktop\AddonTubac varios Rangos\addonprueba\addonprueba\obj\x64\Debug\addonprueba.xml
+C:\Users\cristhiam\Desktop\AddonTubac varios Rangos\addonprueba\addonprueba\obj\x64\Debug\addonprueba.pdb

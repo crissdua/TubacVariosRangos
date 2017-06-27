@@ -1,0 +1,24 @@
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\bin\Debug\addonprueba.exe.config
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\bin\Debug\addonprueba.exe
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\bin\Debug\addonprueba.pdb
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\bin\Debug\addonprueba.xml
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\obj\Debug\addonprueba.vbprojResolveAssemblyReference.cache
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\obj\Debug\addonprueba.vbproj.ResolveComReference.cache
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\obj\Debug\addonprueba.Resources.resources
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\obj\Debug\addonprueba.vbproj.GenerateResource.Cache
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\obj\Debug\addonprueba.exe
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\obj\Debug\addonprueba.xml
+C:\Users\criss\Documents\Visual Studio 2015\Projects\addonprueba\addonprueba\obj\Debug\addonprueba.pdb
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\Debug\addonprueba.exe.config
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\Debug\addonprueba.exe
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\Debug\addonprueba.pdb
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\Debug\addonprueba.xml
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\Debug\addonprueba.Resources.resources
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\Debug\addonprueba.vbproj.GenerateResource.Cache
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\Debug\addonprueba.exe
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\Debug\addonprueba.xml
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\Debug\addonprueba.pdb
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\obj\Debug\addonprueba.vbprojResolveAssemblyReference.cache
+C:\Users\cristhiam\Desktop\addonprueba\addonprueba\bin\Debug\SAPBusinessOneSDK.dll
